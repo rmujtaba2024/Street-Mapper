@@ -1,7 +1,7 @@
 # Street-Mapper
-* Name: Mustafa Mudassaar
- * NetID: Mmustafa
- * Email: mustafamudassar_2024@depauw.edu
+* Name: Rana Mujtaba
+ * NetID: rmujtaba
+ * Email: rmujtaba_2024@depauw.edu
  * Assignment: Project 3
  * Lab: TR 4:50pm-6:05pm.
 
